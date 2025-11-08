@@ -1,47 +1,72 @@
-- company: World Labs
-  description: Founding Member
-  dates: "Jan 2024 - (current)"
-  location: San Francisco, CA
+- company: University of Illinois at Urbana-Champaign
+  description: Teaching Assistant for Computer Vision.
+  dates: "Aug 2025 - Dec 2025"
+  location: Urbana, IL
 
-- company: Google
-  description: Research Scientist
-  dates: "May 2022 - Jan 2024"
-  location: San Francisco, CA
+- company: University of Illinois at Urbana-Champaign
+  description: Graduate Research Assistant in the <a href="http://daslab.illinois.edu/">Distributed Autonomous Systems Lab</a>.
+  dates: "Aug 2021 - Present"
+  location: Urbana, IL
 
-- company: Google
-  description: >-
-    Research Intern on the <a href="https://blog.google/technology/research/project-starline/">Project Starline</a> team.
-    Worked on <a href="https://nerfies.github.io">Nerfies</a> and <ahref="https://hypernerf.github.io">HyperNeRF</a>.
-  dates: "Jun 2020 - Sep 2021"
-  location: Seattle, WA
+- company: University of Illinois at Urbana-Champaign
+  description: Teaching Assistant for Introduction to Robotics.
+  dates: "Aug 2022 - Dec 2022"
+  location: Urbana, IL
 
-- company: NVIDIA
-  description: >-
-    Robotics Research Intern at the <a href="https://www.nvidia.com/en-us/research/robotics/">Seattle Robotics Lab</a>.
-    Worked on <a href="https://latentfusion.github.io">LatentFusion</a>.
-  dates: "Jul 2019 - Nov 2019"
-  location: Seattle, WA
+- company: Universidad Catolica de Colombia
+  description: Assistant Professor in the Electronics Engineering Department.
+  dates: "Jul 2017 - Jul 2021"
+  location: Bogotá, Colombia
+  
+- company: Universidad Nacional de Colombia
+  description: Teaching Assistant for Signals and Dynamic Systems, and Automatic Control.
+  dates: "Mar 2014 - May 2016"
+  location: Bogotá, Colombia
 
-- company: Amazon
-  description: >- 
-    Applied Scientist Intern on the <a href="https://amazon.com/go">Amazon Go</a> team.
-    Worked on human activity detection.
-  dates: "Jul 2017 - Sep 2017"
-  location: Seattle, WA
+# - company: World Labs
+#   description: Founding Member
+#   dates: "Jan 2024 - (current)"
+#   location: San Francisco, CA
 
-- company: Ministry of National Defense, Cyber Command
-  description: Software Engineer (mandatory military service). Worked on network monitoring software.
-  dates: "Oct 2013 - Jul 2015"
-  location: Seoul, Korea
+# - company: Google
+#   description: Research Scientist
+#   dates: "May 2022 - Jan 2024"
+#   location: San Francisco, CA
 
-- company: Google
-  description: Software Engineering Intern. Create document conversion system for Google Cloud Print.
-  dates: "May 2013 - Aug 2013"
-  location: Mountain View, CA
+# - company: Google
+#   description: >-
+#     Research Intern on the <a href="https://blog.google/technology/research/project-starline/">Project Starline</a> team.
+#     Worked on <a href="https://nerfies.github.io">Nerfies</a> and <ahref="https://hypernerf.github.io">HyperNeRF</a>.
+#   dates: "Jun 2020 - Sep 2021"
+#   location: Seattle, WA
 
-- company: Qualcomm
-  description: >-
-    Software Engineering Intern. Optimized performance of JGit, reducing push times from hours to seconds.
-    Implemented multi-master support for Gerrit Code Review.
-  dates: "May 2012 - Aug 2012"
-  location: Boulder, CO
+# - company: NVIDIA
+#   description: >-
+#     Robotics Research Intern at the <a href="https://www.nvidia.com/en-us/research/robotics/">Seattle Robotics Lab</a>.
+#     Worked on <a href="https://latentfusion.github.io">LatentFusion</a>.
+#   dates: "Jul 2019 - Nov 2019"
+#   location: Seattle, WA
+
+# - company: Amazon
+#   description: >- 
+#     Applied Scientist Intern on the <a href="https://amazon.com/go">Amazon Go</a> team.
+#     Worked on human activity detection.
+#   dates: "Jul 2017 - Sep 2017"
+#   location: Seattle, WA
+
+# - company: Ministry of National Defense, Cyber Command
+#   description: Software Engineer (mandatory military service). Worked on network monitoring software.
+#   dates: "Oct 2013 - Jul 2015"
+#   location: Seoul, Korea
+
+# - company: Google
+#   description: Software Engineering Intern. Create document conversion system for Google Cloud Print.
+#   dates: "May 2013 - Aug 2013"
+#   location: Mountain View, CA
+
+# - company: Qualcomm
+#   description: >-
+#     Software Engineering Intern. Optimized performance of JGit, reducing push times from hours to seconds.
+#     Implemented multi-master support for Gerrit Code Review.
+#   dates: "May 2012 - Aug 2012"
+#   location: Boulder, CO

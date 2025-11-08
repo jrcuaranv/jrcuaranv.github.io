@@ -1,8 +1,56 @@
+jrcuaranv:
+  first_name: Jose
+  last_name: Cuaran
+  website: https://jose-cuaran.com
+  is_me: true
+joseleon:
+  first_name: Jose
+  last_name: Leon
+  website: https://joseleonleon.com
+kendallkoe:
+  first_name: Kendall
+  last_name: Koe
+  website: https://kendallkoe.com
+girishc:
+  first_name: Girish
+  last_name: Chowdhary
+  website: https://ece.illinois.edu/about/directory/faculty/girishc
+naveenkumar:
+  first_name: Naveen Kumar
+  last_name: Uppalapati
+  website: https://naveenuppalapati.com
+andresbaquero:
+  first_name: Andres
+  last_name: Baquero
+  website: https://andresbaquero.com
+mateusvalverde:
+  first_name: Mateus Valverde
+  last_name: Gasparino
+  website: https://mateusgasparino.com/
+arunnarenthiran:
+  first_name: Arun Narenthiran
+  last_name: Sivakumar
+  website: https://www.arunnarenthiran.com/
+justinwasserman:
+  first_name: Justin
+  last_name: Wasserman
+  website: https://jbwasse2.github.io/
+saritaadve:
+  first_name: Sarita
+  last_name: Adve
+  website: https://sadve.cs.illinois.edu/
+muhammadhuzaifa:
+  first_name: Muhammad
+  last_name: Huzaifa
+  website: https://huzaifa-research.github.io
+kulbirsingh:
+  first_name: Kulbir Singh
+  last_name: Ahluwalia
+  website: https://kulbir-singh-ahluwalia.com
 keunhong:
   first_name: Keunhong
   last_name: Park
   website: https://keunhong.com
-  is_me: true
 rmbrualla:
   first_name: Ricardo
   last_name: Martin-Brualla
