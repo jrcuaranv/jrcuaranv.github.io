@@ -19,6 +19,7 @@
   title: "Under-Canopy Dataset for Advancing Simultaneous Localization and Mapping in Agricultural Robotics"
   venue: IJRR, 2024
   description: "We present the TerraSentia Dataset, a comprehensive collection of data for advancing SLAM techniques in agricultural robotics, specifically designed for under-canopy environments."
+  project_page: https://github.com/jrcuaranv/terrasentia-dataset
   github: jrcuaranv/terrasentia-dataset
   image: terrasentia_dataset.png
   authors:
