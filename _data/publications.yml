@@ -1,3 +1,28 @@
+- id: VLM_crop_monitoring
+  title: "Visual-Language-Guided Task Planning for Horticultural Robots"
+  venue: TBD
+  description: "We introduce a novel, modular framework that uses a Visual Language Model (VLM) to guide robotic task planning, interleaving input queries with action primitives. We contribute a comprehensive benchmark for short- and long-horizon crop monitoring tasks in monoculture and polyculture environments. "
+  project_page: https://kendallkoe.com/Visual-Language-Guided-Task-Planning-for-Horticultural-Robots/
+  github: jrcuaranv/nbv_planning
+  arxiv: 2601.11906
+  image: vlm_crop_monitoring_2026.png
+  authors:
+    - jrcuaranv
+    - kendallkoe
+    - adityapotnis
+    - naveenkumar
+    - girishc
+
+- id: active_mapping_with_gs
+  title: "Active Semantic Mapping of Horticultural Environments Using Gaussian Splatting"
+  venue: TBD
+  description: "We present a system that integrates the classical Octomap representation with 3D Gaussian Splatting to enable accurate and efficient target-aware mapping of horticultural environments."
+  arxiv: 2601.12122
+  image: active_mapping_with_gs.png
+  authors:
+    - jrcuaranv
+    - naveenkumar
+    - girishc
 
 - id: active_mapping
   title: "Active Semantic Mapping with Mobile Manipulator in Horticultural Environments"
