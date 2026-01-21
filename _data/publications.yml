@@ -63,6 +63,8 @@
   title: "Crop monitoring using unmanned aerial vehicles: A review"
   venue: Agricultural Reviews, 2021
   description: "This paper presents a comprehensive review of the use of unmanned aerial vehicles (UAVs) for crop monitoring, highlighting recent advancements, challenges, and future directions in the field."
+  image: crop_monitoring_2021.png
+  project_page: https://arccjournals.com/journal/agricultural-reviews/R-180
   authors:
     - jrcuaranv
     - joseleon
