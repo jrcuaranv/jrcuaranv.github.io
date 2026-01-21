@@ -26,7 +26,7 @@ description: |
   I am a Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign. I'm advised by Dr. [Girish Chowdhary](https://ece.illinois.edu/about/directory/faculty/girishc) in the Distributed Autonomous Systems Lab ([DASLAB](http://daslab.illinois.edu/)). My research focuses on active semantic mapping and 3D perception for agricultural robotics. I am particularly interested in developing AI-driven methods for mapping and understanding complex agricultural environments, such as greenhouses and orchards, where occlusions, sensor noise, and uncertainty pose significant challenges. My work combines techniques from computer vision, deep learning, and robotics to enable robots to perceive and interact intelligently with plants and fruits. Ultimately, my goal is to advance autonomous systems that support sustainable and precise agricultural practices. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jose-cuaran.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jrcuaranv.github.io/" #"https://jose-cuaran.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jos38514
 github_username: jrcuaranv
 google_scholar: https://scholar.google.com/citations?user=9Yhzi4YAAAAJ&hl=es
