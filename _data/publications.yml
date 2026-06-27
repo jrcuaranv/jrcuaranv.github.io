@@ -1,6 +1,6 @@
 - id: VLM_crop_monitoring
   title: "Visual-Language-Guided Task Planning for Horticultural Robots"
-  venue: TBD, 2026
+  venue: Computers and Electronics in Agriculture, 2026
   description: "We introduce a novel, modular framework that uses a Visual Language Model (VLM) to guide robotic task planning, interleaving input queries with action primitives. We contribute a comprehensive benchmark for short- and long-horizon crop monitoring tasks in monoculture and polyculture environments. "
   project_page: https://kendallkoe.com/Visual-Language-Guided-Task-Planning-for-Horticultural-Robots/
   github: jrcuaranv/nbv_planning
