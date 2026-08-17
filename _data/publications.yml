@@ -18,6 +18,7 @@
   venue: TBD, 2026
   description: "We present a system that integrates the classical Octomap representation with 3D Gaussian Splatting to enable accurate and efficient target-aware mapping of horticultural environments."
   project_page: https://jrcuaranv.github.io/octosplat/
+  github: jrcuaranv/octosplat-code
   arxiv: 2601.12122
   image: active_mapping_with_gs.png
   authors:
