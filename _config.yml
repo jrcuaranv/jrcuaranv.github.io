@@ -29,7 +29,7 @@ description: |
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jrcuaranv.github.io/" #"https://jose-cuaran.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jos38514
+linkedin_url: https://www.linkedin.com/in/jose-cuaran-297701310/
 github_username: jrcuaranv
 google_scholar: https://scholar.google.com/citations?user=9Yhzi4YAAAAJ&hl=es
 google_analytics: G-MFWSBLRKG0
